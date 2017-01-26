@@ -3,7 +3,7 @@
 use Herbert\Framework\Application;
 
 /**
- * @see http://getherbert.com
+ * @see http://getherbert.coms
  */
 class Widget {
 
